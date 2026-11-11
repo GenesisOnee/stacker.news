@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "qa": "node qa.mjs"
+  },
+  "dependencies": {
+    "bootstrap": "5.3.8",
+    "buffer": "6.0.3",
+    "cookie": "1.0.1",
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
+    "standard": "17.1.2",
+    "esbuild": "0.28.2",
+    "playwright": "1.64.1"
+  }
+}

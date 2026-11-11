@@ -1,0 +1,76 @@
+{
+  "at": "2026-11-11T06:52:56.928Z",
+  "componentSha256": "19394d063b1b8aa30712ca177e267528c7c06d1138d13daaead6d3d7995e49d4",
+  "reactVersion": "19.2.6",
+  "results": [
+    {
+      "theme": "light",
+      "width": 320,
+      "instructionsVisible": true,
+      "oldLinkAbsent": true,
+      "overflow": false,
+      "anonCookie": "anonymous",
+      "existingAccountCookie": "1002",
+      "reloadCalls": 2,
+      "errors": []
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "instructionsVisible": true,
+      "oldLinkAbsent": true,
+      "overflow": false,
+      "anonCookie": "anonymous",
+      "existingAccountCookie": "1002",
+      "reloadCalls": 2,
+      "errors": []
+    },
+    {
+      "theme": "light",
+      "width": 1280,
+      "instructionsVisible": true,
+      "oldLinkAbsent": true,
+      "overflow": false,
+      "anonCookie": "anonymous",
+      "existingAccountCookie": "1002",
+      "reloadCalls": 2,
+      "errors": []
+    },
+    {
+      "theme": "dark",
+      "width": 320,
+      "instructionsVisible": true,
+      "oldLinkAbsent": true,
+      "overflow": false,
+      "anonCookie": "anonymous",
+      "existingAccountCookie": "1002",
+      "reloadCalls": 2,
+      "errors": []
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "instructionsVisible": true,
+      "oldLinkAbsent": true,
+      "overflow": false,
+      "anonCookie": "anonymous",
+      "existingAccountCookie": "1002",
+      "reloadCalls": 2,
+      "errors": []
+    },
+    {
+      "theme": "dark",
+      "width": 1280,
+      "instructionsVisible": true,
+      "oldLinkAbsent": true,
+      "overflow": false,
+      "anonCookie": "anonymous",
+      "existingAccountCookie": "1002",
+      "reloadCalls": 2,
+      "errors": []
+    }
+  ],
+  "scope": "Actual account.js, UserListRow, useCookie, lib/auth cookieOptions and styles in an isolated React browser fixture. Router reload, GraphQL responses, next/link, Image and unrelated component dependencies mocked. No full Next.js app, live account authentication, provider login, backend, payment or mobile device was tested.",
+  "base": "d1cc5cf7820144fc25c152db6ea9202208232cb0",
+  "head": "9e7bca492ee5853c778acdeeb0ddf9136fa86a0f"
+}
